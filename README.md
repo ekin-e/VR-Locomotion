@@ -8,4 +8,4 @@ This VR application provides 5 different locomotion methods for the user to pick
 5. Continuous Controller-Directed Locomotion
 
 # Video Demo
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/https://youtu.be/HXGZl8Tv8-E?si=vdQOvJ2mhihfcBLt/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/HXGZl8Tv8-E?si=vdQOvJ2mhihfcBLt "VR Locomotion")
+[![VR Locomotion](https://img.youtube.com/vi/HXGZl8Tv8-E/0.jpg)](https://www.youtube.com/watch?v=HXGZl8Tv8-E)
