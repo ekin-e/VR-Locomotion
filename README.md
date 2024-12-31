@@ -9,3 +9,6 @@ This VR application provides 5 different locomotion methods for the user to pick
 
 # Video Demo
 [![VR Locomotion](https://img.youtube.com/vi/HXGZl8Tv8-E/0.jpg)](https://www.youtube.com/watch?v=HXGZl8Tv8-E)
+
+# Contributions
+This is an individual project
